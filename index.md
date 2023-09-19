@@ -9,3 +9,7 @@ const me = {
   country: "Peru"
     }
 ```
+
+- [x] About me added to Github
+- [x] Intro to Github
+- [ ] Portfolio
